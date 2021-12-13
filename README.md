@@ -13,4 +13,4 @@
 | ⛔机场推荐🖕| ⚠️[Airport_recommendation](https://github.com/ThekingMX1998/free-v2ray-code/blob/menu/ERROR/Airport_recommendation.md)✔️|
 | ⛔游戏加速器🖕| ⚠️[Free_Game_accelerator](https://github.com/ThekingMX1998/free-v2ray-code/blob/menu/ERROR/Free_Game_accelerator.md)✔️|
 
-[![shhxzyjzg](https://raw.githubusercontent.com/ThekingMX1998/free-v2ray-code/master/Image/shhxzyjzg.jpg)](https://github.com/ThekingMX1998/free-v2ray-code#)
+[![shhxzyjzg](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/shhxzyjzg.jpg)](https://github.com/ThekingMX1998/free-v2ray-code#)
