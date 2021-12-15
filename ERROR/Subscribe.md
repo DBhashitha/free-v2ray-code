@@ -1,6 +1,6 @@
 # 📢订阅链接📢
 
-## v2ray
+## v2ray (需要翻墙)
 
 ### 流媒体: `https://dllx.tk/GreenFishStream`
 
@@ -9,7 +9,7 @@
 ### 临时: `https://dllx.tk/GreenFishTemp`
 
 
-## Clash
+## Clash (需要翻墙)
 
 ### 流媒体: `https://dllx.tk/GreenFishStream-Clash`
 
